@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <TargetFramework>net7.0-windows</TargetFramework>
+	  <RootNamespace>MTPBWY_U_PacificDrive</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>MTPBWY_U_PacificDrive</AssemblyName>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="MTPBWY_U_PacificDrive.ini">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="MayThePerfromanceBeWithYou-Configurator">
+      <HintPath>Libs\MayThePerfromanceBeWithYou-Configurator.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

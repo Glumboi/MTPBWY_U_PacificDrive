@@ -1,0 +1,16 @@
+D:\Github\MTPBWY_U_PacificDrive\src\MTPBWY_U_PacificDrive\src\MTPBWY_U_PluginTemplate\bin\Release\net7.0-windows\MTPBWY_U_PacificDrive.ini
+D:\Github\MTPBWY_U_PacificDrive\src\MTPBWY_U_PacificDrive\src\MTPBWY_U_PluginTemplate\bin\Release\net7.0-windows\MayThePerfromanceBeWithYou-Configurator.dll
+D:\Github\MTPBWY_U_PacificDrive\src\MTPBWY_U_PacificDrive\src\MTPBWY_U_PluginTemplate\obj\Release\net7.0-windows\MTPBWY_U_PluginTemplate.csproj.AssemblyReference.cache
+D:\Github\MTPBWY_U_PacificDrive\src\MTPBWY_U_PacificDrive\src\MTPBWY_U_PluginTemplate\obj\Release\net7.0-windows\MTPBWY_U_PluginTemplate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\MTPBWY_U_PacificDrive\src\MTPBWY_U_PacificDrive\src\MTPBWY_U_PluginTemplate\obj\Release\net7.0-windows\MTPBWY_U_PluginTemplate.AssemblyInfoInputs.cache
+D:\Github\MTPBWY_U_PacificDrive\src\MTPBWY_U_PacificDrive\src\MTPBWY_U_PluginTemplate\obj\Release\net7.0-windows\MTPBWY_U_PluginTemplate.AssemblyInfo.cs
+D:\Github\MTPBWY_U_PacificDrive\src\MTPBWY_U_PacificDrive\src\MTPBWY_U_PluginTemplate\obj\Release\net7.0-windows\MTPBWY_U_PluginTemplate.csproj.CoreCompileInputs.cache
+D:\Github\MTPBWY_U_PacificDrive\src\MTPBWY_U_PacificDrive\src\MTPBWY_U_PluginTemplate\obj\Release\net7.0-windows\MTPBWY_U_PluginTemplate.sourcelink.json
+D:\Github\MTPBWY_U_PacificDrive\src\MTPBWY_U_PacificDrive\src\MTPBWY_U_PluginTemplate\obj\Release\net7.0-windows\MTPBWY_U_PluginTemplate.csproj.CopyComplete
+D:\Github\MTPBWY_U_PacificDrive\src\MTPBWY_U_PacificDrive\src\MTPBWY_U_PluginTemplate\bin\Release\net7.0-windows\MTPBWY_U_PacificDrive.deps.json
+D:\Github\MTPBWY_U_PacificDrive\src\MTPBWY_U_PacificDrive\src\MTPBWY_U_PluginTemplate\bin\Release\net7.0-windows\MTPBWY_U_PacificDrive.dll
+D:\Github\MTPBWY_U_PacificDrive\src\MTPBWY_U_PacificDrive\src\MTPBWY_U_PluginTemplate\bin\Release\net7.0-windows\MTPBWY_U_PacificDrive.pdb
+D:\Github\MTPBWY_U_PacificDrive\src\MTPBWY_U_PacificDrive\src\MTPBWY_U_PluginTemplate\obj\Release\net7.0-windows\MTPBWY_U_PacificDrive.dll
+D:\Github\MTPBWY_U_PacificDrive\src\MTPBWY_U_PacificDrive\src\MTPBWY_U_PluginTemplate\obj\Release\net7.0-windows\refint\MTPBWY_U_PacificDrive.dll
+D:\Github\MTPBWY_U_PacificDrive\src\MTPBWY_U_PacificDrive\src\MTPBWY_U_PluginTemplate\obj\Release\net7.0-windows\MTPBWY_U_PacificDrive.pdb
+D:\Github\MTPBWY_U_PacificDrive\src\MTPBWY_U_PacificDrive\src\MTPBWY_U_PluginTemplate\obj\Release\net7.0-windows\ref\MTPBWY_U_PacificDrive.dll

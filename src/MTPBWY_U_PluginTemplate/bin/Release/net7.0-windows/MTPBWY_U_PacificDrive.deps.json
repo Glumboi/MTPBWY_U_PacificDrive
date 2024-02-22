@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MTPBWY_U_PacificDrive/1.0.0": {
+        "dependencies": {
+          "MayThePerfromanceBeWithYou-Configurator": "1.5.0.0"
+        },
+        "runtime": {
+          "MTPBWY_U_PacificDrive.dll": {}
+        }
+      },
+      "MayThePerfromanceBeWithYou-Configurator/1.5.0.0": {
+        "runtime": {
+          "MayThePerfromanceBeWithYou-Configurator.dll": {
+            "assemblyVersion": "1.5.0.0",
+            "fileVersion": "1.5.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MTPBWY_U_PacificDrive/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MayThePerfromanceBeWithYou-Configurator/1.5.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
